@@ -5,7 +5,6 @@ on:
 
 jobs:
   build_job_1:
-    needs: test_job_2
     runs-on: ubuntu-latest
     steps:
     - name: Install Cowsay Program
