@@ -4,4 +4,4 @@ We will be learining github actions,
 - automate your software development workflows
 - enhancing productivity and code quality
 
-sOME RANDOM TEXT
+# adding a comment
